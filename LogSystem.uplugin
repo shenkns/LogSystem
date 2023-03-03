@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Log System",
+	"Description": "Log System Plugin",
+	"Category": "Debug",
+	"CreatedBy": "shenkns",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LogSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
