@@ -7,7 +7,7 @@
 	"Category": "Debug",
 	"CreatedBy": "shenkns",
 	"EngineVersion": "5.1.0",
-	"CanContainContent": true,
+	"CanContainContent": false,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
