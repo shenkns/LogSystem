@@ -15,7 +15,7 @@
 		{
 			"Name": "LogSystem",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "PreDefault"
 		}
 	]
 }
